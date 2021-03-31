@@ -1,0 +1,11 @@
+{
+  "ndkVersionFromDsl": "21.3.6528147",
+  "sdkFolder": "/Users/liumeng/Library/Android/sdk",
+  "sideBySideNdkFolderNames": [
+    "20.1.5948944",
+    "20.0.5594570",
+    "21.3.6528147",
+    "21.0.6113669",
+    "21.1.6352462"
+  ]
+}

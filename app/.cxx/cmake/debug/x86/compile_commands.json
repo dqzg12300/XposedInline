@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/liumeng/AndroidStudioProjects/ArtXposedCppHook/app/.cxx/cmake/debug/x86",
+  "command": "/Users/liumeng/Library/Android/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/liumeng/Library/Android/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/liumeng/Library/Android/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/native-lib.cpp.o -c /Users/liumeng/AndroidStudioProjects/ArtXposedCppHook/app/src/main/cpp/native-lib.cpp",
+  "file": "/Users/liumeng/AndroidStudioProjects/ArtXposedCppHook/app/src/main/cpp/native-lib.cpp"
+}
+]

@@ -1,0 +1,9 @@
+D:/src/project_apk/ArtXposedCppHook/app/.cxx/cmake/release/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+D:/src/project_apk/ArtXposedCppHook/app/.cxx/cmake/release/armeabi-v7a/CMakeFiles/native-libs.dir
+D:/src/project_apk/ArtXposedCppHook/app/.cxx/cmake/release/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/src/project_apk/ArtXposedCppHook/app/.cxx/cmake/release/armeabi-v7a/Substrate/CMakeFiles/edit_cache.dir
+D:/src/project_apk/ArtXposedCppHook/app/.cxx/cmake/release/armeabi-v7a/Substrate/CMakeFiles/substrate.dir
+D:/src/project_apk/ArtXposedCppHook/app/.cxx/cmake/release/armeabi-v7a/Substrate/CMakeFiles/rebuild_cache.dir
+D:/src/project_apk/ArtXposedCppHook/app/.cxx/cmake/release/armeabi-v7a/dobby/CMakeFiles/dobby.dir
+D:/src/project_apk/ArtXposedCppHook/app/.cxx/cmake/release/armeabi-v7a/dobby/CMakeFiles/edit_cache.dir
+D:/src/project_apk/ArtXposedCppHook/app/.cxx/cmake/release/armeabi-v7a/dobby/CMakeFiles/rebuild_cache.dir

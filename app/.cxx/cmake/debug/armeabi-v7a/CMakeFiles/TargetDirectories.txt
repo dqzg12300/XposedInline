@@ -1,0 +1,9 @@
+D:/git_src/XposedInline/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+D:/git_src/XposedInline/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/native-libs.dir
+D:/git_src/XposedInline/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/git_src/XposedInline/app/.cxx/cmake/debug/armeabi-v7a/Substrate/CMakeFiles/edit_cache.dir
+D:/git_src/XposedInline/app/.cxx/cmake/debug/armeabi-v7a/Substrate/CMakeFiles/substrate.dir
+D:/git_src/XposedInline/app/.cxx/cmake/debug/armeabi-v7a/Substrate/CMakeFiles/rebuild_cache.dir
+D:/git_src/XposedInline/app/.cxx/cmake/debug/armeabi-v7a/dobby/CMakeFiles/dobby.dir
+D:/git_src/XposedInline/app/.cxx/cmake/debug/armeabi-v7a/dobby/CMakeFiles/edit_cache.dir
+D:/git_src/XposedInline/app/.cxx/cmake/debug/armeabi-v7a/dobby/CMakeFiles/rebuild_cache.dir

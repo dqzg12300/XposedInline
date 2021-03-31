@@ -1,0 +1,644 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 16 min SDK version: armeabi-v7a",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Trying to locate CMake in local SDK repository.",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "- CMake found in SDK at \u0027C:\\sdk\\cmake\\3.10.2.4988404\u0027 had version \u00273.10.2\u0027",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "CMake \u00273.6.0\u0027 found in SDK did not match requested version \u00273.10.2\u0027.",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "rebuilding JSON D:\\src\\project_apk\\ArtXposedCppHook\\app\\.cxx\\cmake\\release\\armeabi-v7a\\android_gradle_build.json due to:",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "- command changed from previous, will remove stale json folder",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "- a dependent build file changed",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "  - D:\\Users\\liumeng\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "  - D:\\Users\\liumeng\\Library\\Android\\sdk\\ndk\\21.3.6528147\\build\\cmake\\android.toolchain.cmake",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "  - D:\\Users\\liumeng\\Library\\Android\\sdk\\ndk\\21.3.6528147\\build\\cmake\\platforms.cmake",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "  - D:\\Users\\liumeng\\ArtXposedCppHook\\app\\src\\main\\cpp\\Substrate\\CMakeLists.txt",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "  - D:\\Users\\liumeng\\ArtXposedCppHook\\app\\src\\main\\cpp\\Dobby\\CMakeLists.txt",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "  - D:\\Users\\liumeng\\ArtXposedCppHook\\app\\src\\main\\cpp\\Dobby\\cmake\\Util.cmake",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "  - D:\\Users\\liumeng\\ArtXposedCppHook\\app\\src\\main\\cpp\\Dobby\\cmake\\Globals.cmake",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "  - D:\\Users\\liumeng\\ArtXposedCppHook\\app\\src\\main\\cpp\\Dobby\\cmake\\Macros.cmake",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "  - D:\\Users\\liumeng\\ArtXposedCppHook\\app\\src\\main\\cpp\\Dobby\\cmake\\XcodeGenerator.cmake",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "  - D:\\Users\\liumeng\\ArtXposedCppHook\\app\\src\\main\\cpp\\Dobby\\cmake\\AutoFiles.cmake",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "removing stale contents from \u0027D:\\src\\project_apk\\ArtXposedCppHook\\app\\.cxx\\cmake\\release\\armeabi-v7a\u0027",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "created folder \u0027D:\\src\\project_apk\\ArtXposedCppHook\\app\\.cxx\\cmake\\release\\armeabi-v7a\u0027",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "executing cmake Executable : C:\\sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe\narguments : \n-HD:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\n-DCMAKE_FIND_ROOT_PATH\u003dD:\\src\\project_apk\\ArtXposedCppHook\\app\\.cxx\\cmake\\release\\prefab\\armeabi-v7a\\prefab\n-DCMAKE_BUILD_TYPE\u003dRelease\n-DCMAKE_TOOLCHAIN_FILE\u003dC:\\sdk\\ndk\\21.3.6528147\\build\\cmake\\android.toolchain.cmake\n-DANDROID_ABI\u003darmeabi-v7a\n-DANDROID_NDK\u003dC:\\sdk\\ndk\\21.3.6528147\n-DANDROID_PLATFORM\u003dandroid-16\n-DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a\n-DCMAKE_ANDROID_NDK\u003dC:\\sdk\\ndk\\21.3.6528147\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dD:\\src\\project_apk\\ArtXposedCppHook\\app\\build\\intermediates\\cmake\\release\\obj\\armeabi-v7a\n-DCMAKE_MAKE_PROGRAM\u003dC:\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_SYSTEM_VERSION\u003d16\n-BD:\\src\\project_apk\\ArtXposedCppHook\\app\\.cxx\\cmake\\release\\armeabi-v7a\n-GNinja\njvmArgs : \n\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "[\u003d\u003d \"CMake Server\" \u003d\u003d[\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"supportedProtocolVersions\":[{\"isExperimental\":true,\"major\":1,\"minor\":1}],\"type\":\"hello\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "]\u003d\u003d \"CMake Server\" \u003d\u003d]\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"handshake\",\n  \"cookie\": \"gradle-cmake-cookie\",\n  \"protocolVersion\": {\n    \"isExperimental\": true,\n    \"major\": 1,\n    \"minor\": 1\n  },\n  \"sourceDirectory\": \"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp\",\n  \"buildDirectory\": \"D:/src/project_apk/ArtXposedCppHook/app/.cxx/cmake/release/armeabi-v7a\",\n  \"generator\": \"Ninja\"\n}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"gradle-cmake-cookie\",\"inReplyTo\":\"handshake\",\"type\":\"reply\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"configure\",\n  \"cacheArguments\": [\n    \"\",\n    \"-DCMAKE_FIND_ROOT_PATH\\u003dD:\\\\src\\\\project_apk\\\\ArtXposedCppHook\\\\app\\\\.cxx\\\\cmake\\\\release\\\\prefab\\\\armeabi-v7a\\\\prefab\",\n    \"-DCMAKE_BUILD_TYPE\\u003dRelease\",\n    \"-DCMAKE_TOOLCHAIN_FILE\\u003dC:\\\\sdk\\\\ndk\\\\21.3.6528147\\\\build\\\\cmake\\\\android.toolchain.cmake\",\n    \"-DANDROID_ABI\\u003darmeabi-v7a\",\n    \"-DANDROID_NDK\\u003dC:\\\\sdk\\\\ndk\\\\21.3.6528147\",\n    \"-DANDROID_PLATFORM\\u003dandroid-16\",\n    \"-DCMAKE_ANDROID_ARCH_ABI\\u003darmeabi-v7a\",\n    \"-DCMAKE_ANDROID_NDK\\u003dC:\\\\sdk\\\\ndk\\\\21.3.6528147\",\n    \"-DCMAKE_EXPORT_COMPILE_COMMANDS\\u003dON\",\n    \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\\u003dD:\\\\src\\\\project_apk\\\\ArtXposedCppHook\\\\app\\\\build\\\\intermediates\\\\cmake\\\\release\\\\obj\\\\armeabi-v7a\",\n    \"-DCMAKE_MAKE_PROGRAM\\u003dC:\\\\sdk\\\\cmake\\\\3.10.2.4988404\\\\bin\\\\ninja.exe\",\n    \"-DCMAKE_SYSTEM_NAME\\u003dAndroid\",\n    \"-DCMAKE_SYSTEM_VERSION\\u003d16\"\n  ]\n}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: C:/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe\",\"type\":\"message\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working C compiler: C:/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":33,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: C:/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works\",\"type\":\"message\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working C compiler: C:/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info\",\"type\":\"message\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compiler ABI info",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":65,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info - done\",\"type\":\"message\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compiler ABI info - done",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features\",\"type\":\"message\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compile features",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":96,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":126,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":155,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features - done\",\"type\":\"message\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compile features - done",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working CXX compiler: C:/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe\",\"type\":\"message\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working CXX compiler: C:/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":184,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working CXX compiler: C:/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works\",\"type\":\"message\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working CXX compiler: C:/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info\",\"type\":\"message\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compiler ABI info",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":211,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info - done\",\"type\":\"message\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compiler ABI info - done",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features\",\"type\":\"message\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compile features",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":237,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":262,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":287,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":311,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features - done\",\"type\":\"message\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compile features - done",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":334,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":356,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"The ASM compiler identification is Clang\",\"type\":\"message\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "The ASM compiler identification is Clang",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Found assembler: C:/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe\",\"type\":\"message\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Found assembler: C:/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"********* build-environment-detected ***********\",\"type\":\"message\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "********* build-environment-detected ***********",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"\\tCompiler: \\t Clang\",\"type\":\"message\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "\tCompiler: \t Clang",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"\\tPROCESSOR:\\t armv7-a\",\"type\":\"message\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "\tPROCESSOR:\t armv7-a",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"\\tSystem:   \\t Android\",\"type\":\"message\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "\tSystem:   \t Android",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"***************************************\",\"type\":\"message\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "***************************************",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"[Dobby] Enable debug logging\",\"type\":\"message\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "[Dobby] Enable debug logging",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"[Dobby] Enable Dynamic Binary Instrument allow you instrument at any instruction\",\"type\":\"message\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "[Dobby] Enable Dynamic Binary Instrument allow you instrument at any instruction",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"[Dobby] Enable Near Branch Trampoline\",\"type\":\"message\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "[Dobby] Enable Near Branch Trampoline",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Version: Dobby-20210330\",\"type\":\"message\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Version: Dobby-20210330",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":933,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":966,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Configuring done\",\"type\":\"message\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Configuring done",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"type\":\"reply\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"compute\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":333,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":666,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"message\":\"Generating done\",\"type\":\"message\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Generating done",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"type\":\"reply\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"cmakeInputs\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"buildFiles\":[{\"isCMake\":true,\"isTemporary\":false,\"sources\":[\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystem.cmake.in\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInitialize.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Initialize.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCCompiler.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine-C.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android/Determine-Compiler.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCXXCompiler.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine-CXX.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android/Determine-Compiler.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompiler.cmake.in\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInformation.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeGenericSystem.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Linux.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/UnixPaths.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCInformation.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/GNU.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-C.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCCompiler.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCompilerCommon.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompilerABI.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompilerABI.c\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompileFeatures.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXInformation.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-CXX.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCXXCompiler.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCompilerCommon.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompilerABI.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompileFeatures.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompiler.cmake.in\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineASMCompiler.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeASMCompiler.cmake.in\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeASMInformation.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-ASM.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-ASM.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestASMCompiler.cmake\"]},{\"isCMake\":false,\"isTemporary\":false,\"sources\":[\"CMakeLists.txt\",\"C:/sdk/ndk/21.3.6528147/build/cmake/android.toolchain.cmake\",\"C:/sdk/ndk/21.3.6528147/build/cmake/platforms.cmake\",\"C:/sdk/ndk/21.3.6528147/build/cmake/android.toolchain.cmake\",\"Substrate/CMakeLists.txt\",\"Dobby/CMakeLists.txt\",\"Dobby/cmake/Util.cmake\",\"Dobby/cmake/Globals.cmake\",\"Dobby/cmake/Macros.cmake\",\"Dobby/cmake/XcodeGenerator.cmake\",\"Dobby/cmake/AutoFiles.cmake\"]},{\"isCMake\":false,\"isTemporary\":true,\"sources\":[\"../../../.cxx/cmake/release/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake\",\"../../../.cxx/cmake/release/armeabi-v7a/CMakeFiles/3.10.2/CMakeCCompiler.cmake\",\"../../../.cxx/cmake/release/armeabi-v7a/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake\",\"../../../.cxx/cmake/release/armeabi-v7a/CMakeFiles/feature_tests.c\",\"../../../.cxx/cmake/release/armeabi-v7a/CMakeFiles/feature_tests.c\",\"../../../.cxx/cmake/release/armeabi-v7a/CMakeFiles/feature_tests.c\",\"../../../.cxx/cmake/release/armeabi-v7a/CMakeFiles/3.10.2/CMakeCCompiler.cmake\",\"../../../.cxx/cmake/release/armeabi-v7a/CMakeFiles/feature_tests.cxx\",\"../../../.cxx/cmake/release/armeabi-v7a/CMakeFiles/feature_tests.cxx\",\"../../../.cxx/cmake/release/armeabi-v7a/CMakeFiles/feature_tests.cxx\",\"../../../.cxx/cmake/release/armeabi-v7a/CMakeFiles/feature_tests.cxx\",\"../../../.cxx/cmake/release/armeabi-v7a/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake\",\"../../../.cxx/cmake/release/armeabi-v7a/CMakeFiles/3.10.2/CMakeASMCompiler.cmake\"]}],\"cmakeRootDirectory\":\"C:/sdk/cmake/3.10.2.4988404/share/cmake-3.10\",\"cookie\":\"\",\"inReplyTo\":\"cmakeInputs\",\"sourceDirectory\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp\",\"type\":\"reply\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"codemodel\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"configurations\":[{\"name\":\"Release\",\"projects\":[{\"buildDirectory\":\"D:/src/project_apk/ArtXposedCppHook/app/.cxx/cmake/release/armeabi-v7a/dobby\",\"name\":\"Dobby\",\"sourceDirectory\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby\",\"targets\":[{\"artifacts\":[\"D:/src/project_apk/ArtXposedCppHook/app/.cxx/cmake/release/armeabi-v7a/dobby/libdobby.a\"],\"buildDirectory\":\"D:/src/project_apk/ArtXposedCppHook/app/.cxx/cmake/release/armeabi-v7a/dobby\",\"fileGroups\":[{\"isGenerated\":false,\"sources\":[\"include/dobby.h\"]},{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -march\u003darmv7-a -mthumb -Wformat -Werror\u003dformat-security  -g -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -march\u003darmv7-a -mthumb -Wformat -Werror\u003dformat-security  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -march\u003darmv7-a -mthumb -Wformat -Werror\u003dformat-security   -Oz -DNDEBUG  -fPIC   -std\u003dgnu++11\",\"defines\":[\"DOBBY_DEBUG\",\"LOGGING_DEBUG\",\"__DOBBY_BUILD_VERSION__\u003d\\\"Dobby-20210330\\\"\"],\"includePath\":[{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/include\"},{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/external/logging\"},{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/.\"},{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/./source\"},{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/./source/UserMode\"},{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/./source/MemoryKit\"},{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/./source/TrampolineKit\"},{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/./external\"},{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/./external/logging\"},{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/./external/xnucxx\"}],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"source/core/arch/CpuFeature.cc\",\"source/core/arch/CpuRegister.cc\",\"source/core/modules/assembler/assembler.cc\",\"source/core/modules/assembler/assembler-arm.cc\",\"source/core/modules/codegen/codegen-arm.cc\",\"source/MemoryKit/CodeBuffer/CodeBufferBase.cc\",\"source/MemoryKit/CodeBuffer/code-buffer-arm.cc\",\"source/MemoryKit/AssemblyCodeBuilder.cc\",\"source/MemoryKit/MemoryArena.cc\",\"source/InstructionRelocation/arm/ARMInstructionRelocation.cc\",\"source/InterceptRouting/InterceptRouting.cpp\",\"source/TrampolineKit/InterceptRoutingTrampoline/arm/trampoline-arm.cc\",\"source/InterceptRouting/RoutingPlugin/FunctionInlineReplace/function-inline-replace.cc\",\"source/InterceptRouting/RoutingPlugin/FunctionInlineReplace/FunctionInlineReplaceExport.cc\",\"source/InterceptRouting/ExtraInternalPlugin/RegisterPlugin.cc\",\"source/UserMode/PlatformUtil/ProcesssRuntimeUtility.cc\",\"source/UserMode/UnifiedInterface/platform-posix.cc\",\"source/UserMode/ExecMemory/code-patch-tool-posix.cc\",\"source/UserMode/ExecMemory/clear-cache-tool-all.cc\",\"source/dobby.cpp\",\"source/Interceptor.cpp\",\"source/TrampolineKit/ClosureTrampolineBridge/closure-trampoline-common-handler/closure-trampoline-common-handler.cc\",\"source/TrampolineKit/ClosureTrampolineBridge/arm/helper-arm.cc\",\"source/TrampolineKit/ClosureTrampolineBridge/arm/closure-bridge-arm.cc\",\"source/TrampolineKit/ClosureTrampolineBridge/arm/ARMAssemblyClosureTrampoline.cc\",\"source/InterceptRouting/RoutingPlugin/DynamicBinaryInstrument/dynamic-binary-instrument.cc\",\"source/InterceptRouting/RoutingPlugin/DynamicBinaryInstrument/DynamicBinaryInstrumentExport.cc\",\"source/InterceptRouting/RoutingPlugin/DynamicBinaryInstrument/intercept_routing_handler.cc\",\"source/InterceptRouting/ExtraInternalPlugin/NearBranchTrampoline/NeaBranchTrampoline.cc\",\"source/InterceptRouting/ExtraInternalPlugin/NearBranchTrampoline/NearMemoryArena.cc\",\"external/logging/cxxlogging.cc\",\"external/xnucxx/LiteObject.cc\",\"external/xnucxx/LiteMemOpt.cc\",\"external/xnucxx/LiteCollection.cc\",\"external/xnucxx/LiteIterator.cc\",\"external/xnucxx/LiteMutableArray.cc\",\"external/xnucxx/LiteMutableBuffer.cc\"]},{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -march\u003darmv7-a -mthumb -Wformat -Werror\u003dformat-security  -g -Oz -DNDEBUG  -fPIC   -std\u003dgnu11\",\"defines\":[\"DOBBY_DEBUG\",\"LOGGING_DEBUG\",\"__DOBBY_BUILD_VERSION__\u003d\\\"Dobby-20210330\\\"\"],\"includePath\":[{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/include\"},{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/external/logging\"},{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/.\"},{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/./source\"},{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/./source/UserMode\"},{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/./source/MemoryKit\"},{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/./source/TrampolineKit\"},{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/./external\"},{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/./external/logging\"},{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/./external/xnucxx\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"external/logging/logging.c\"]}],\"fullName\":\"libdobby.a\",\"linkerLanguage\":\"CXX\",\"name\":\"dobby\",\"sourceDirectory\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby\",\"sysroot\":\"C:/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"STATIC_LIBRARY\"}]},{\"buildDirectory\":\"D:/src/project_apk/ArtXposedCppHook/app/.cxx/cmake/release/armeabi-v7a\",\"name\":\"Project\",\"sourceDirectory\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp\",\"targets\":[{\"artifacts\":[\"D:/src/project_apk/ArtXposedCppHook/app/.cxx/cmake/release/armeabi-v7a/dobby/libdobby.a\"],\"buildDirectory\":\"D:/src/project_apk/ArtXposedCppHook/app/.cxx/cmake/release/armeabi-v7a/dobby\",\"fileGroups\":[{\"isGenerated\":false,\"sources\":[\"include/dobby.h\"]},{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -march\u003darmv7-a -mthumb -Wformat -Werror\u003dformat-security  -g -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -march\u003darmv7-a -mthumb -Wformat -Werror\u003dformat-security  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -march\u003darmv7-a -mthumb -Wformat -Werror\u003dformat-security   -Oz -DNDEBUG  -fPIC   -std\u003dgnu++11\",\"defines\":[\"DOBBY_DEBUG\",\"LOGGING_DEBUG\",\"__DOBBY_BUILD_VERSION__\u003d\\\"Dobby-20210330\\\"\"],\"includePath\":[{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/include\"},{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/external/logging\"},{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/.\"},{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/./source\"},{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/./source/UserMode\"},{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/./source/MemoryKit\"},{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/./source/TrampolineKit\"},{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/./external\"},{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/./external/logging\"},{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/./external/xnucxx\"}],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"source/core/arch/CpuFeature.cc\",\"source/core/arch/CpuRegister.cc\",\"source/core/modules/assembler/assembler.cc\",\"source/core/modules/assembler/assembler-arm.cc\",\"source/core/modules/codegen/codegen-arm.cc\",\"source/MemoryKit/CodeBuffer/CodeBufferBase.cc\",\"source/MemoryKit/CodeBuffer/code-buffer-arm.cc\",\"source/MemoryKit/AssemblyCodeBuilder.cc\",\"source/MemoryKit/MemoryArena.cc\",\"source/InstructionRelocation/arm/ARMInstructionRelocation.cc\",\"source/InterceptRouting/InterceptRouting.cpp\",\"source/TrampolineKit/InterceptRoutingTrampoline/arm/trampoline-arm.cc\",\"source/InterceptRouting/RoutingPlugin/FunctionInlineReplace/function-inline-replace.cc\",\"source/InterceptRouting/RoutingPlugin/FunctionInlineReplace/FunctionInlineReplaceExport.cc\",\"source/InterceptRouting/ExtraInternalPlugin/RegisterPlugin.cc\",\"source/UserMode/PlatformUtil/ProcesssRuntimeUtility.cc\",\"source/UserMode/UnifiedInterface/platform-posix.cc\",\"source/UserMode/ExecMemory/code-patch-tool-posix.cc\",\"source/UserMode/ExecMemory/clear-cache-tool-all.cc\",\"source/dobby.cpp\",\"source/Interceptor.cpp\",\"source/TrampolineKit/ClosureTrampolineBridge/closure-trampoline-common-handler/closure-trampoline-common-handler.cc\",\"source/TrampolineKit/ClosureTrampolineBridge/arm/helper-arm.cc\",\"source/TrampolineKit/ClosureTrampolineBridge/arm/closure-bridge-arm.cc\",\"source/TrampolineKit/ClosureTrampolineBridge/arm/ARMAssemblyClosureTrampoline.cc\",\"source/InterceptRouting/RoutingPlugin/DynamicBinaryInstrument/dynamic-binary-instrument.cc\",\"source/InterceptRouting/RoutingPlugin/DynamicBinaryInstrument/DynamicBinaryInstrumentExport.cc\",\"source/InterceptRouting/RoutingPlugin/DynamicBinaryInstrument/intercept_routing_handler.cc\",\"source/InterceptRouting/ExtraInternalPlugin/NearBranchTrampoline/NeaBranchTrampoline.cc\",\"source/InterceptRouting/ExtraInternalPlugin/NearBranchTrampoline/NearMemoryArena.cc\",\"external/logging/cxxlogging.cc\",\"external/xnucxx/LiteObject.cc\",\"external/xnucxx/LiteMemOpt.cc\",\"external/xnucxx/LiteCollection.cc\",\"external/xnucxx/LiteIterator.cc\",\"external/xnucxx/LiteMutableArray.cc\",\"external/xnucxx/LiteMutableBuffer.cc\"]},{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -march\u003darmv7-a -mthumb -Wformat -Werror\u003dformat-security  -g -Oz -DNDEBUG  -fPIC   -std\u003dgnu11\",\"defines\":[\"DOBBY_DEBUG\",\"LOGGING_DEBUG\",\"__DOBBY_BUILD_VERSION__\u003d\\\"Dobby-20210330\\\"\"],\"includePath\":[{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/include\"},{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/external/logging\"},{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/.\"},{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/./source\"},{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/./source/UserMode\"},{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/./source/MemoryKit\"},{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/./source/TrampolineKit\"},{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/./external\"},{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/./external/logging\"},{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/./external/xnucxx\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"external/logging/logging.c\"]}],\"fullName\":\"libdobby.a\",\"linkerLanguage\":\"CXX\",\"name\":\"dobby\",\"sourceDirectory\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby\",\"sysroot\":\"C:/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"STATIC_LIBRARY\"},{\"artifacts\":[\"D:/src/project_apk/ArtXposedCppHook/app/build/intermediates/cmake/release/obj/armeabi-v7a/libnative-libs.so\"],\"buildDirectory\":\"D:/src/project_apk/ArtXposedCppHook/app/.cxx/cmake/release/armeabi-v7a\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -march\u003darmv7-a -mthumb -Wformat -Werror\u003dformat-security   -Oz -DNDEBUG  -fPIC  \",\"defines\":[\"native_libs_EXPORTS\"],\"includePath\":[{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/include\"},{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/external/logging\"},{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Substrate/src\"}],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"dlfc/dlfcn_nougat.cpp\",\"utils/parse.cpp\",\"main.cpp\",\"utils/wrap.cpp\",\"utils/hide.cpp\",\"fix.cpp\"]},{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -march\u003darmv7-a -mthumb -Wformat -Werror\u003dformat-security  -Oz -DNDEBUG  -fPIC  \",\"defines\":[\"native_libs_EXPORTS\"],\"includePath\":[{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/include\"},{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/external/logging\"},{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Substrate/src\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"utils/pmparser.c\"]}],\"fullName\":\"libnative-libs.so\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--exclude-libs,libunwind.a -Wl,--no-undefined -Qunused-arguments\",\"linkLibraries\":\"-llog Substrate\\\\libsubstrate.a dobby\\\\libdobby.a -llog -latomic -lm\",\"linkerLanguage\":\"CXX\",\"name\":\"native-libs\",\"sourceDirectory\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp\",\"sysroot\":\"C:/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"},{\"artifacts\":[\"D:/src/project_apk/ArtXposedCppHook/app/.cxx/cmake/release/armeabi-v7a/Substrate/libsubstrate.a\"],\"buildDirectory\":\"D:/src/project_apk/ArtXposedCppHook/app/.cxx/cmake/release/armeabi-v7a/Substrate\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -march\u003darmv7-a -mthumb -Wformat -Werror\u003dformat-security   -std\u003dc++11 -Oz -DNDEBUG  -fPIC  \",\"includePath\":[{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/include\"},{\"path\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Dobby/external/logging\"}],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"src/And64InlineHook.cpp\",\"src/SubstrateDebug.cpp\",\"src/SubstrateHook.cpp\",\"src/SubstratePosixMemory.cpp\"]}],\"fullName\":\"libsubstrate.a\",\"linkerLanguage\":\"CXX\",\"name\":\"substrate\",\"sourceDirectory\":\"D:/src/project_apk/ArtXposedCppHook/app/src/main/cpp/Substrate\",\"sysroot\":\"C:/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"STATIC_LIBRARY\"}]}]}],\"cookie\":\"\",\"inReplyTo\":\"codemodel\",\"type\":\"reply\"}\n",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "done executing cmake",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "write build output D:\\src\\project_apk\\ArtXposedCppHook\\app\\.cxx\\cmake\\release\\armeabi-v7a\\build_output.txt",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "write command file D:\\src\\project_apk\\ArtXposedCppHook\\app\\.cxx\\cmake\\release\\armeabi-v7a\\build_command.txt",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "D:\\src\\project_apk\\ArtXposedCppHook\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  }
+]

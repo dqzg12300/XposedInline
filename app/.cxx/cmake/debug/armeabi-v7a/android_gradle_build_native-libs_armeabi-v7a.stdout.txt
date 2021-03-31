@@ -1,0 +1,83 @@
+ninja: Entering directory `D:\git_src\XposedInline\app\.cxx\cmake\debug\armeabi-v7a'
+[1/52] Building CXX object CMakeFiles/native-libs.dir/dlfc/dlfcn_nougat.cpp.o
+[2/52] Building CXX object CMakeFiles/native-libs.dir/utils/parse.cpp.o
+[3/52] Building CXX object CMakeFiles/native-libs.dir/utils/hide.cpp.o
+[4/52] Building C object CMakeFiles/native-libs.dir/utils/pmparser.c.o
+[5/52] Building CXX object CMakeFiles/native-libs.dir/utils/wrap.cpp.o
+[6/52] Building CXX object CMakeFiles/native-libs.dir/fix.cpp.o
+[7/52] Building CXX object Substrate/CMakeFiles/substrate.dir/src/And64InlineHook.cpp.o
+[8/52] Building CXX object Substrate/CMakeFiles/substrate.dir/src/SubstrateDebug.cpp.o
+[9/52] Building CXX object Substrate/CMakeFiles/substrate.dir/src/SubstratePosixMemory.cpp.o
+[10/52] Building CXX object dobby/CMakeFiles/dobby.dir/source/core/modules/assembler/assembler.cc.o
+[11/52] Building CXX object dobby/CMakeFiles/dobby.dir/source/core/arch/CpuFeature.cc.o
+[12/52] Building CXX object dobby/CMakeFiles/dobby.dir/source/core/arch/CpuRegister.cc.o
+[13/52] Building CXX object dobby/CMakeFiles/dobby.dir/source/core/modules/codegen/codegen-arm.cc.o
+[14/52] Building CXX object dobby/CMakeFiles/dobby.dir/source/core/modules/assembler/assembler-arm.cc.o
+[15/52] Building CXX object dobby/CMakeFiles/dobby.dir/source/MemoryKit/CodeBuffer/code-buffer-arm.cc.o
+[16/52] Building CXX object dobby/CMakeFiles/dobby.dir/source/MemoryKit/CodeBuffer/CodeBufferBase.cc.o
+[17/52] Building CXX object dobby/CMakeFiles/dobby.dir/source/InterceptRouting/InterceptRouting.cpp.o
+[18/52] Building CXX object dobby/CMakeFiles/dobby.dir/source/InstructionRelocation/arm/ARMInstructionRelocation.cc.o
+[19/52] Building CXX object dobby/CMakeFiles/dobby.dir/source/MemoryKit/MemoryArena.cc.o
+[20/52] Building CXX object dobby/CMakeFiles/dobby.dir/source/MemoryKit/AssemblyCodeBuilder.cc.o
+[21/52] Building CXX object dobby/CMakeFiles/dobby.dir/source/InterceptRouting/RoutingPlugin/FunctionInlineReplace/FunctionInlineReplaceExport.cc.o
+[22/52] Building CXX object dobby/CMakeFiles/dobby.dir/source/TrampolineKit/InterceptRoutingTrampoline/arm/trampoline-arm.cc.o
+[23/52] Building CXX object dobby/CMakeFiles/dobby.dir/source/InterceptRouting/ExtraInternalPlugin/RegisterPlugin.cc.o
+[24/52] Building CXX object dobby/CMakeFiles/dobby.dir/source/UserMode/ExecMemory/clear-cache-tool-all.cc.o
+[25/52] Building CXX object dobby/CMakeFiles/dobby.dir/source/InterceptRouting/RoutingPlugin/FunctionInlineReplace/function-inline-replace.cc.o
+[26/52] Building CXX object dobby/CMakeFiles/dobby.dir/source/UserMode/PlatformUtil/ProcesssRuntimeUtility.cc.o
+[27/52] Building CXX object dobby/CMakeFiles/dobby.dir/source/UserMode/UnifiedInterface/platform-posix.cc.o
+[28/52] Building CXX object dobby/CMakeFiles/dobby.dir/source/UserMode/ExecMemory/code-patch-tool-posix.cc.o
+[29/52] Building CXX object dobby/CMakeFiles/dobby.dir/source/InterceptRouting/RoutingPlugin/DynamicBinaryInstrument/dynamic-binary-instrument.cc.o
+[30/52] Building CXX object dobby/CMakeFiles/dobby.dir/source/TrampolineKit/ClosureTrampolineBridge/arm/helper-arm.cc.o
+[31/52] Building CXX object dobby/CMakeFiles/dobby.dir/source/TrampolineKit/ClosureTrampolineBridge/arm/ARMAssemblyClosureTrampoline.cc.o
+[32/52] Building CXX object dobby/CMakeFiles/dobby.dir/source/Interceptor.cpp.o
+[33/52] Building CXX object dobby/CMakeFiles/dobby.dir/source/TrampolineKit/ClosureTrampolineBridge/closure-trampoline-common-handler/closure-trampoline-common-handler.cc.o
+[34/52] Building CXX object dobby/CMakeFiles/dobby.dir/source/dobby.cpp.o
+[35/52] Building CXX object dobby/CMakeFiles/dobby.dir/source/TrampolineKit/ClosureTrampolineBridge/arm/closure-bridge-arm.cc.o
+[36/52] Building CXX object dobby/CMakeFiles/dobby.dir/source/InterceptRouting/RoutingPlugin/DynamicBinaryInstrument/DynamicBinaryInstrumentExport.cc.o
+[37/52] Building CXX object dobby/CMakeFiles/dobby.dir/external/xnucxx/LiteMemOpt.cc.o
+[38/52] Building CXX object dobby/CMakeFiles/dobby.dir/external/xnucxx/LiteCollection.cc.o
+[39/52] Building CXX object dobby/CMakeFiles/dobby.dir/external/logging/cxxlogging.cc.o
+[40/52] Building CXX object dobby/CMakeFiles/dobby.dir/source/InterceptRouting/RoutingPlugin/DynamicBinaryInstrument/intercept_routing_handler.cc.o
+[41/52] Building C object dobby/CMakeFiles/dobby.dir/external/logging/logging.c.o
+[42/52] Building CXX object dobby/CMakeFiles/dobby.dir/external/xnucxx/LiteObject.cc.o
+[43/52] Building CXX object dobby/CMakeFiles/dobby.dir/source/InterceptRouting/ExtraInternalPlugin/NearBranchTrampoline/NearMemoryArena.cc.o
+[44/52] Building CXX object dobby/CMakeFiles/dobby.dir/external/xnucxx/LiteIterator.cc.o
+[45/52] Building CXX object Substrate/CMakeFiles/substrate.dir/src/SubstrateHook.cpp.o
+D:/git_src/XposedInline/app/src/main/cpp/Substrate/src/SubstrateHook.cpp:132:100: warning: '&&' within '||' [-Wlogical-op-parentheses]
+    return (ic[0] & 0xf800) == 0xf000 && ((ic[1] & 0xd000) == 0x9000 || (ic[1] & 0xd000) == 0x8000 && (ic[0] & 0x0380) != 0x0380);
+                                                                     ~~ ~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+D:/git_src/XposedInline/app/src/main/cpp/Substrate/src/SubstrateHook.cpp:132:100: note: place parentheses around the '&&' expression to silence this warning
+    return (ic[0] & 0xf800) == 0xf000 && ((ic[1] & 0xd000) == 0x9000 || (ic[1] & 0xd000) == 0x8000 && (ic[0] & 0x0380) != 0x0380);
+                                                                                                   ^
+                                                                        (                                                       )
+1 warning generated.
+[46/52] Building CXX object dobby/CMakeFiles/dobby.dir/source/InterceptRouting/ExtraInternalPlugin/NearBranchTrampoline/NeaBranchTrampoline.cc.o
+D:/git_src/XposedInline/app/src/main/cpp/Dobby/source/InterceptRouting/ExtraInternalPlugin/NearBranchTrampoline/NeaBranchTrampoline.cc:18:3: warning: delete called on 'RoutingPlugin' that is abstract but has non-virtual destructor [-Wdelete-abstract-non-virtual-dtor]
+  delete plugin;
+  ^
+1 warning generated.
+[47/52] Building CXX object dobby/CMakeFiles/dobby.dir/external/xnucxx/LiteMutableBuffer.cc.o
+[48/52] Building CXX object CMakeFiles/native-libs.dir/main.cpp.o
+In file included from D:/git_src/XposedInline/app/src/main/cpp/main.cpp:3:
+In file included from D:/git_src/XposedInline/app/src/main/cpp/main.h:20:
+D:/git_src/XposedInline/app/src/main/cpp/utils/logging.h:115:9: warning: 'TAG' macro redefined [-Wmacro-redefined]
+#define TAG "lyh222222222"
+        ^
+D:/git_src/XposedInline/app/src/main/cpp/utils/Log.h:11:9: note: previous definition is here
+#define TAG "hide"
+        ^
+D:/git_src/XposedInline/app/src/main/cpp/main.cpp:17:20: warning: ISO C++11 does not allow conversion from string literal to 'char *' [-Wwritable-strings]
+char* outTmpPath = "/data/data/com.example.ceair/out.tmp.so";
+                   ^
+D:/git_src/XposedInline/app/src/main/cpp/main.cpp:18:17: warning: ISO C++11 does not allow conversion from string literal to 'char *' [-Wwritable-strings]
+char* outPath = "/data/data/com.example.ceair/out.so";
+                ^
+D:/git_src/XposedInline/app/src/main/cpp/main.cpp:19:19: warning: ISO C++11 does not allow conversion from string literal to 'char *' [-Wwritable-strings]
+char* solibname = "vmpso";
+                  ^
+4 warnings generated.
+[49/52] Building CXX object dobby/CMakeFiles/dobby.dir/external/xnucxx/LiteMutableArray.cc.o
+[50/52] Linking CXX static library Substrate\libsubstrate.a
+[51/52] Linking CXX static library dobby\libdobby.a
+[52/52] Linking CXX shared library D:\git_src\XposedInline\app\build\intermediates\cmake\debug\obj\armeabi-v7a\libnative-libs.so

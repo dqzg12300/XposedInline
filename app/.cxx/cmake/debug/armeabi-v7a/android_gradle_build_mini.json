@@ -1,0 +1,41 @@
+{
+  "buildFiles": [
+    "D:\\git_src\\XposedInline\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "C:\\sdk\\ndk\\21.3.6528147\\build\\cmake\\android.toolchain.cmake",
+    "C:\\sdk\\ndk\\21.3.6528147\\build\\cmake\\platforms.cmake",
+    "D:\\git_src\\XposedInline\\app\\src\\main\\cpp\\Substrate\\CMakeLists.txt",
+    "D:\\git_src\\XposedInline\\app\\src\\main\\cpp\\Dobby\\CMakeLists.txt",
+    "D:\\git_src\\XposedInline\\app\\src\\main\\cpp\\Dobby\\cmake\\Util.cmake",
+    "D:\\git_src\\XposedInline\\app\\src\\main\\cpp\\Dobby\\cmake\\Globals.cmake",
+    "D:\\git_src\\XposedInline\\app\\src\\main\\cpp\\Dobby\\cmake\\Macros.cmake",
+    "D:\\git_src\\XposedInline\\app\\src\\main\\cpp\\Dobby\\cmake\\XcodeGenerator.cmake",
+    "D:\\git_src\\XposedInline\\app\\src\\main\\cpp\\Dobby\\cmake\\AutoFiles.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\git_src\\XposedInline\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\git_src\\XposedInline\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-libs-Debug-armeabi-v7a": {
+      "artifactName": "native-libs",
+      "buildCommand": "C:\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\git_src\\XposedInline\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" native-libs",
+      "abi": "armeabi-v7a",
+      "output": "D:\\git_src\\XposedInline\\app\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libnative-libs.so",
+      "runtimeFiles": []
+    },
+    "dobby-Debug-armeabi-v7a": {
+      "artifactName": "dobby",
+      "buildCommand": "C:\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\git_src\\XposedInline\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" dobby",
+      "abi": "armeabi-v7a",
+      "output": "D:\\git_src\\XposedInline\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\dobby\\libdobby.a",
+      "runtimeFiles": []
+    },
+    "substrate-Debug-armeabi-v7a": {
+      "artifactName": "substrate",
+      "buildCommand": "C:\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\git_src\\XposedInline\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" substrate",
+      "abi": "armeabi-v7a",
+      "output": "D:\\git_src\\XposedInline\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\Substrate\\libsubstrate.a",
+      "runtimeFiles": []
+    }
+  }
+}

@@ -1,0 +1,9 @@
+D:/src/project_apk/ArtXposedCppHook/app/.cxx/cmake/release/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/src/project_apk/ArtXposedCppHook/app/.cxx/cmake/release/arm64-v8a/CMakeFiles/native-libs.dir
+D:/src/project_apk/ArtXposedCppHook/app/.cxx/cmake/release/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/src/project_apk/ArtXposedCppHook/app/.cxx/cmake/release/arm64-v8a/Substrate/CMakeFiles/edit_cache.dir
+D:/src/project_apk/ArtXposedCppHook/app/.cxx/cmake/release/arm64-v8a/Substrate/CMakeFiles/substrate.dir
+D:/src/project_apk/ArtXposedCppHook/app/.cxx/cmake/release/arm64-v8a/Substrate/CMakeFiles/rebuild_cache.dir
+D:/src/project_apk/ArtXposedCppHook/app/.cxx/cmake/release/arm64-v8a/dobby/CMakeFiles/dobby.dir
+D:/src/project_apk/ArtXposedCppHook/app/.cxx/cmake/release/arm64-v8a/dobby/CMakeFiles/edit_cache.dir
+D:/src/project_apk/ArtXposedCppHook/app/.cxx/cmake/release/arm64-v8a/dobby/CMakeFiles/rebuild_cache.dir
